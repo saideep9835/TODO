@@ -1,1 +1,2 @@
-helloo
+print("hello")
+print("user")
